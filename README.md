@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A passionate by Innovation located in France</h3>
+<h3 align="center">A passionate individual about innovation located in France.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etisato&label=Profile%20views&color=0e75b6&style=flat" alt="etisato" /> </p>
+
+🌐 Languages:
+- Portuguese (Brazilian Native)
+- English (Fluent)
+- French (Fluent)
+- Spanish (Intermediate)
 
 - 🔭 I’m currently working on **Data analysis**
 
